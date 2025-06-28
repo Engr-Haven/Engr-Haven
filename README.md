@@ -1,5 +1,10 @@
-## 👋  Hi, I'm Ayo Okunola
-🧑‍💻 Frontend Dev | 🎨 UI/UX Designer | 🧩 Design Engineer
+<h1 align="left">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> 
+  Hi, I'm <strong>Ayo Okunola</strong>
+</h1>
+
+
+### 🧑‍💻 Frontend Dev | 🎨 UI/UX Designer | 🧩 Design Engineer
 
 I'm deeply committed to building visually compelling and user-friendly web interfaces. I blend design thinking with clean, scalable code to create modern, responsive websites and applications. My current focus is on growing my expertise in frontend development and modern JavaScript frameworks.
 <hr style="border: none; height: 1px; background-color: #00b894;" />
