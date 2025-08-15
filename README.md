@@ -4,7 +4,7 @@
 </h1>
 
 
-### 🧑‍💻 Frontend Dev | 🎨 UI/UX Designer | 🛡️ Software Engineer
+### 🧑‍💻 Front-End Dev | 🎨 UI/UX Designer | 🛡️ Software Engineer
 
 I'm deeply committed to building visually compelling and user-friendly web interfaces. I blend design thinking with clean, scalable code to create modern, responsive websites and applications. My current focus is on growing my expertise in frontend development and modern JavaScript frameworks.
 <hr style="border: none; height: 1px; background-color: #00b894;" />
