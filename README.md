@@ -42,9 +42,9 @@ I'm deeply committed to building visually compelling and user-friendly web inter
 
 ## 📊 GitHub Stats
 
-![Ayo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=engr-haven&show_icons=true&theme=radical)
+![Ayo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Engr-Haven&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engr-haven&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Engr-Haven&layout=compact&theme=radical)
 
 <hr style="border: none; height: 1px; background-color: #00b894;" />
 
