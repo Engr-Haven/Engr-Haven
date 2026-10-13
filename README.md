@@ -3,7 +3,7 @@
   Hi, I'm <strong>Ayo Okunola</strong>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C853&width=600&lines=🧑‍💻+Fullstack+Developer;🎨+UI%2FUX+Designer;🛡️+Software+Engineer;🚀+HTML+%7C+CSS+%7C+JavaScript+%7C+React+%7C+Nodejs+%7C+Expressjs+%7C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C853&width=600&lines=🧑‍💻+Fullstack+Developer;🎨+UI%2FUX+Designer;🛡️+Software+Engineer;🚀+Python+%7C+TailwindCSS+%7C+JavaScript+%7C+React+%7C+Nodejs+%7C+Expressjs+%7C)](https://git.io/typing-svg)
 
 <!--### 🧑‍💻 Front-End Dev | 🎨 UI/UX Designer | 🛡️ Software Engineer -->
 I'm deeply committed to building visually compelling and user-friendly web interfaces. I blend design thinking with clean, scalable code to create modern, responsive websites and applications. My current focus is on growing my expertise in frontend & backend development and modern JavaScript frameworks.
