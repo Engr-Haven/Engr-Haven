@@ -12,7 +12,7 @@ I'm deeply committed to building visually compelling and user-friendly web inter
 ## 🚀 Core Stack
 | 💼 What I Do                         | 🤝 Open to Collaborate On                     |
 |--------------------------------------|------------------------------------------------|
-| Frontend Development (HTML, CSS, JS) | Frontend Projects                              |
+| Fullstack Development(Frontend & Backend) | Frontend Projects                              |
 | UI/UX Design (Figma)                 | UI/UX Design & Prototyping                     |
 | WordPress Development                | Branding & Visual Identity                     |
 | Brand Design & Visual Identity       | Design-to-Code Projects                        |
