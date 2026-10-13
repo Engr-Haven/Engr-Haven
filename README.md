@@ -10,12 +10,12 @@ I'm deeply committed to building visually compelling and user-friendly web inter
 <hr style="border: none; height: 1px; background-color: #00b894;" />
 
 ## 🚀 Core Stack
-| 💼 What I Do                          | 📚 Currently Learning                    | 🤝 Open to Collaborate On                      |
-|--------------------------------------|------------------------------------------|------------------------------------------------|
-| Frontend Development (HTML, CSS, JS) | React.js ⚛️                               | Frontend Projects                              |
-| UI/UX Design (Figma)                 | TypeScript 🟦                             | UI/UX Design & Prototyping                     |
-| WordPress Development                | Next.js 🧠                                | Branding & Visual Identity                     |
-| Brand Design & Visual Identity       | Tailwind CSS 🌬️                          | Design-to-Code Projects                        |
+| 💼 What I Do                         | 🤝 Open to Collaborate On                     |
+|--------------------------------------|------------------------------------------------|
+| Frontend Development (HTML, CSS, JS) | Frontend Projects                              |
+| UI/UX Design (Figma)                 | UI/UX Design & Prototyping                     |
+| WordPress Development                | Branding & Visual Identity                     |
+| Brand Design & Visual Identity       | Design-to-Code Projects                        |
 
 <hr style="border: none; height: 1px; background-color: #00b894;" />
 
@@ -49,4 +49,4 @@ I'm deeply committed to building visually compelling and user-friendly web inter
 <hr style="border: none; height: 1px; background-color: #00b894;" />
 
 ## 🤝 Let's Collaborate
-- 🚀 I'm open to team projects and collabs in frontend and UI/UX.  *Let's build amazing stuffs together!*
+- 🚀 I'm open to team projects and collabs in frontend and backend.  *Let's build amazing stuffs together!*
