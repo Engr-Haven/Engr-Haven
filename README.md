@@ -36,7 +36,7 @@ I'm deeply committed to building visually compelling and user-friendly web inter
 - 💻 I enjoy making UIs so clean, even minimalists say “whoa.”
 - 🧠 I love learning new tools — currently obsessed with React, TypeScript, and Tailwind.
 - 🎯 I believe great design isn’t just how it looks, but how it *feels*.
-- 🚀 Co-building [Kodeio](#).
+- 🚀 Co-building [Kodeio Technologies](https://kodeiotechnologies.com/).
 
 <hr style="border: none; height: 1px; background-color: #00b894;" />
 
